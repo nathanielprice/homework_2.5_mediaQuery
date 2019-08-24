@@ -139,6 +139,7 @@ footer {
     text-align: center;
 }
 .work {
+    height: 250px;
     width: 300px;
     overflow: auto;
     position: relative;
